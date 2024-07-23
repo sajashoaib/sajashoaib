@@ -43,7 +43,7 @@ Welcome to the Saja Abu Shoaib profile!
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-Css-F9A03C?style=flat-square&logo=css&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css&logoColor=1572B6" />
 </p>
 
 
