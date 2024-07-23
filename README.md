@@ -47,7 +47,6 @@ Welcome to the Saja Abu Shoaib profile!
   <img alt="NextJs" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img alt="Material-U" src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
-
     </p>
 
 
